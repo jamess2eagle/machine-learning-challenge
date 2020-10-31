@@ -9,4 +9,4 @@ The project was done in **Python**, but there are multiple libraries like that *
 Two models were used to compare the results of accuracy of the data.
 
 ### 1. First model - sequential model with two layers
-![](sequential model.PNG)
+![](sequential_model.PNG)
